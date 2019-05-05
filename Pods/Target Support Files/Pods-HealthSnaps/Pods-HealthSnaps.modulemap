@@ -1,0 +1,6 @@
+framework module Pods_HealthSnaps {
+  umbrella header "Pods-HealthSnaps-umbrella.h"
+
+  export *
+  module * { export * }
+}
